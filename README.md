@@ -22,7 +22,7 @@ The system is divided into several major components:
 - **Backend (Node.js)**: Manages API requests, connects with the database, and handles business logic.
 - **Database (MongoDB)**: Stores user data such as profiles, reminders, health reports, and interaction history.
 - **AI/ML Module (Python)**: Handles voice interaction processing, emotion detection, and speech-to-text conversions.
-
+- **Notification Service**: Sends push notifications and alerts for reminders and health updates (via Firebase).
 ---
 
 ## **Branches**

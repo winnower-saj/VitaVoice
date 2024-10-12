@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="QN8-s28KMF-OtpVVdAKU">
+    <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#000000;fontColor=default;" edge="1" parent="1" source="MrDJ0S2eBtC8e2lqBDwe-1" target="MrDJ0S2eBtC8e2lqBDwe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#000000;fontColor=default;" edge="1" parent="1" source="MrDJ0S2eBtC8e2lqBDwe-1" target="MrDJ0S2eBtC8e2lqBDwe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-1" value="Backend" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="390" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#000000;fontColor=default;" edge="1" parent="1" source="MrDJ0S2eBtC8e2lqBDwe-2" target="MrDJ0S2eBtC8e2lqBDwe-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-2" value="Mobile App&lt;div&gt;(React Native)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="510" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-3" value="AI/ML&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="630" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-4" value="Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#000000;fontColor=default;" edge="1" parent="1" source="MrDJ0S2eBtC8e2lqBDwe-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-8" value="API&amp;nbsp;&lt;div&gt;requests&lt;/div&gt;&lt;div&gt;(Send user commands,&amp;nbsp;&lt;/div&gt;&lt;div&gt;receive data.)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-10" value="Data Storage&lt;div&gt;(Store/retrieve user data.)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-11" value="Send voice data&amp;nbsp;&lt;div&gt;for analysis and&amp;nbsp;&lt;/div&gt;&lt;div&gt;feature tuning&lt;/div&gt;&lt;div&gt;(Process voice data for&amp;nbsp;&lt;/div&gt;&lt;div&gt;emotion detection)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="213" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#000000;fontColor=default;" edge="1" parent="1" source="MrDJ0S2eBtC8e2lqBDwe-12" target="MrDJ0S2eBtC8e2lqBDwe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-12" value="Notification&lt;div&gt;System&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-14" value="Push&lt;div&gt;notifications&lt;/div&gt;&lt;div&gt;(Send reminders/alerts.)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MrDJ0S2eBtC8e2lqBDwe-19" value="Push&amp;nbsp;&lt;div&gt;notifications&lt;/div&gt;&lt;div&gt;(Push reminders/&lt;/div&gt;&lt;div&gt;alerts to users.)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontColor=#393C56;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="20" width="110" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

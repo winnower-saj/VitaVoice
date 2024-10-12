@@ -38,7 +38,7 @@ The system is divided into several major components:
 
 ## **Figma Design Link**
 
-You can explore the app design on Figma [here](www.figma.com/proto/2bsdyAoSByOQaL1b2L7sXQ/VitaVoice?node-id=154-463&node-type=canvas&t=ncTtDgX0XsY34CTV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1).  
+You can explore the app design on Figma [here](https://www.figma.com/proto/2bsdyAoSByOQaL1b2L7sXQ/VitaVoice?node-id=154-463&node-type=canvas&t=ncTtDgX0XsY34CTV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1).  
 
 
 ---

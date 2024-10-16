@@ -5,6 +5,7 @@
 ---
 
 ## **Features**
+
 - **Medication Reminders**: Timely, gentle reminders to help users stay on track with their medications.
 - **Appointment Reminders**: Notifications about upcoming medical appointments to help users stay prepared.
 - **Healthy Habits**: Encourages healthy behaviors like walking, checking blood pressure, sugar levels, and sleeping on time.
@@ -23,6 +24,7 @@ The system is divided into several major components:
 - **Database (MongoDB)**: Stores user data such as profiles, reminders, health reports, and interaction history.
 - **AI/ML Module (Python)**: Handles voice interaction processing, emotion detection, and speech-to-text conversions.
 - **Notification Service**: Sends push notifications and alerts for reminders and health updates (via Firebase).
+
 ---
 
 ## **Branches**
@@ -38,10 +40,6 @@ The system is divided into several major components:
 
 ## **Figma Design Link**
 
-You can explore the app design on Figma [here](https://www.figma.com/proto/2bsdyAoSByOQaL1b2L7sXQ/VitaVoice?node-id=154-463&node-type=canvas&t=ncTtDgX0XsY34CTV-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1).  
-
+You can explore the app design on Figma [here](https://www.figma.com/proto/2bsdyAoSByOQaL1b2L7sXQ/VitaVoice?node-id=9-103&node-type=canvas&t=hmcYCg9Wlc5Ym0Zd-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1).
 
 ---
-
-
-
